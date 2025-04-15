@@ -1,0 +1,12 @@
+{
+  "SauceDemoLoginPage": {
+      "CCE117_TC01_LoginWithValidCredentials": {
+          "valid_username": "standard_user",
+          "valid_password": "secret_sauce"
+      },
+      "CCE117_TC02_LoginWithInvalidCredentials": {
+          "valid_username": "invalid_email@gmail.com",
+          "valid_password": "invalid_password"
+      }
+  }
+}

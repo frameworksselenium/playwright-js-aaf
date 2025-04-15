@@ -1,0 +1,39 @@
+{
+    "page": [
+        {
+            "x": 5.404,
+            "y": 17.609,
+            "T": "Entity Or Person:Person"
+        },
+        {
+            "x": 9.874,
+            "y": 17.609,
+            "T": "Retroactive Date:Jan 30, 2025"
+        },
+        {
+            "x": 14.374,
+            "y": 17.609,
+            "T": "Knowledge Date:Jan 30, 2025"
+        },
+        {
+            "x": 18.874,
+            "y": 19.364,
+            "T": "Client, Contract, Projec Service test"
+        },
+        {
+            "x": 20.284,
+            "y": 18.179,
+            "T": "t, Or"
+        },
+        {
+            "x": 23.359,
+            "y": 17.609,
+            "T": "Project Number:12345"
+        },
+        {
+            "x": 28.234,
+            "y": 17.609,
+            "T": "Contract Number:45623434344"
+        }
+    ]
+}
