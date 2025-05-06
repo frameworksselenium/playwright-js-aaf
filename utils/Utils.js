@@ -1,6 +1,5 @@
 // Importing necessary modules for Playwright test
 import { test, expect } from '@playwright/test';
-const baseAction = require('../aaf/PlaywrightHelper');
 const globalVariable = require('../aaf/global_variables');
 const os = require('os');
 
